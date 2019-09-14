@@ -2,7 +2,7 @@
 title: "Initial Code for Take 2 Project"
 author: "Laura Lynch"
 date: 2019-09-14
-output: html_document
+output:github_document 
 ---
   
   ```{r setup, include = FALSE}
